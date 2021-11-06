@@ -7,7 +7,7 @@ public class MenuManager : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 
     public void MapEditor()
